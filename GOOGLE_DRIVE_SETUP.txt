@@ -1,0 +1,26 @@
+<!-- 
+INSTRUCTIONS TO GET DIRECT VIDEO LINKS FROM GOOGLE DRIVE:
+
+1. Go to your Google Drive folder
+2. For each video file, right-click and select "Get link"
+3. Extract the FILE_ID from the sharing link (it's between /d/ and /view)
+4. Replace YOUR_FILE_ID_XX below with the actual file IDs
+
+Example: If link is https://drive.google.com/file/d/1ABC123XYZ/view?usp=sharing
+The FILE_ID is: 1ABC123XYZ
+
+Videos found in your folder:
+- 01SHOPPERS STOP.mp4
+- 02Kaizen School Final.mp4
+- 02McD.mp4
+- 03reel Bazar fx
+- 04Agileology .mp4
+- 06 MM
+- 06SFU final.mp4
+- flarefly final.....mp4
+- REEL 2 bazar fx
+- reel manex_1.mp4
+
+Place the actual Google Drive file IDs in the format below:
+https://drive.google.com/uc?export=download&id=FILE_ID_HERE
+-->
